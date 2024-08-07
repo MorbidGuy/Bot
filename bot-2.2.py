@@ -124,7 +124,7 @@ def main():
     check_system_resources()
     run_subprocess() 
 
-    token = ''  
+    token = 'YOUR_TOKEN_BOT'  
     client.run(token)
 
 if __name__ == "__main__":
